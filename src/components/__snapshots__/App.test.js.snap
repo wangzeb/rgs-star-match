@@ -33,6 +33,12 @@ exports[`App renders correctly 1`] = `
       <div
         className="star"
       />
+      <div
+        className="star"
+      />
+      <div
+        className="star"
+      />
     </div>
     <div
       className="right"
